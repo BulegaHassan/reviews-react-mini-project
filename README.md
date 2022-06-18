@@ -2,7 +2,7 @@
 
 ### Hosted Project
 
-[reviews app on netlify](https://explore-towns-bybulega.netlify.app/)
+[reviews app on netlify](https://reviews-react-app-bybh27.netlify.app/)
 
 #### Setup
 
